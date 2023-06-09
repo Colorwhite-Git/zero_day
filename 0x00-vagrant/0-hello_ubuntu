@@ -1,4 +1,4 @@
-The uname command without options prints the operating system name
+The uname command without options prints the Linux operating system name
 
 The 'uname' command without any option prints the core operating system name.
 
